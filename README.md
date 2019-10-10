@@ -1,1 +1,1 @@
-# Punk Beer App
+# Beer App
